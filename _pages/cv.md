@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+Here's My CV [CV](https://raw.githubusercontent.com/edwardqin-creator/edwardqin-creator.github.io/cv/ZeqingQin_CV.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
