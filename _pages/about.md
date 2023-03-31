@@ -8,15 +8,50 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the school of Cyber Science and Engineering at [Huazhong University of Science and Technology(HUST)](http://english.hust.edu.cn/). I'm interested in Machine Learning, Natural Language Processing, Security, and Multimodal Image Processing.
+Hi! I am a graduate student in the school of Cyber Science and Engineering at [Huazhong University of Science and Technology(HUST)](http://english.hust.edu.cn/). I'm interested in Machine Learning, Natural Language Processing, Security, and Multimodal Image Processing.
 
-Research Experience
+---
+
+## Research Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**Image Registration Method Based on Evolutionary Computation**
+Aug 2020 – Mar 2022
+Supported by the National Natural Science Foundation of China (Grant No.61772180)
+Person in charge (Team leader and the only undergraduate student in the group)
+* Optimized the process of medical image registration with Evolutionary Computation.
+* Improved genetic algorithm by simulating the breeding process of Chinese three-line hybrid rice.
+* Achieved faster convergence speed and greater robustness. Published a paper at IEEE SMC2021.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Extracting Concept Prerequisite from Network Resources**
+Jul 2020 – June 2022
+Supported by the National Natural Science Foundation of China (Grant No. 61977021)
+Assistant Research (Assisted in the design and implementation of experiments)
+* Innovatively explored from the two dimensions of Wikipedia and the course introduction.
+* Dug out the primary dependencies between learning objects more accurately. Published a paper at
+SEKE2021.
 
-Getting started
+---
+
+## Project Experience
+======
+**Alibaba Cloud Security WEBSHELL Text Detection**
+Sep 2022 – Now
+Alibaba Group, Wuhan, China
+Algorithm Analyst
+* Deployed webshell text (malicious code) detection on the Alibaba Cloud platform.
+* Based on BERT, we conducted large-scale automated text detection for massive data.
+* Modified the algorithm through various methods, resulting in a final detection rate above 97%.
+
+**Community resource integration application during the COVID-19**
+Jan 2020 – Jun 2022
+Institute of Software Hubei University, Wuhan, China
+Systems architect
+* Aimed at difficulties in community management.
+* Provided a platform for community residents to assist each other.
+
+---
+
+## Selected 
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -24,6 +59,8 @@ Getting started
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
+
+---
 
 Site-wide configuration
 ------
