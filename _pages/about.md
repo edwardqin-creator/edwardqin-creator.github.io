@@ -12,6 +12,9 @@ Hi! I am a graduate student in the school of Cyber Science and Engineering at [H
 
 ---
 
+## What's News
+* Start working in HUST, Sep 1, 2023.
+
 ## Research Experience
 **Image Registration Method Based on Evolutionary Computation**
 Time: Aug 2020 – Mar 2022
@@ -29,9 +32,7 @@ Role: Assistant Research (Assisted in the design and implementation of experimen
 * Dug out the primary dependencies between learning objects more accurately. Published a paper at
 SEKE2021.
 
----
-
-## Project Experience
+## Professional Experience
 **Alibaba Cloud Security WEBSHELL Text Detection**
 Time: Sep 2022 – Now
 Place: Alibaba Group, Wuhan, China
@@ -47,7 +48,6 @@ Role: Systems architect
 * Aimed at difficulties in community management.
 * Provided a platform for community residents to assist each other.
 
----
 
 ## Selected Publications
 [1]**Zeqing Qin**, Zhiwei Ye*, et al. **A Multimodal Biomedical Image Registration Method Based on an Improved Genetic Algorithm Inspired by Hybrid Breeding**[C]//2021 International Conference on Systems, Man, and Cybernetics, IEEE SMC2021. (CCF: C, QUALIS: B2) [paper](https://ieeexplore.ieee.org/document/9658798)
