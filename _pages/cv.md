@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Click here to download my CV in pdf [Zeqing's CV](https://github.com/edwardqin-creator/edwardqin-creator.github.io/raw/master/cv/ZeqingQin_CV.pdf)
+Here is my CV in pdf [Zeqing's CV](https://edwardqin-creator.github.io/files/ZeqingQin_CV.pdf)
 
 Education
 ======
