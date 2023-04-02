@@ -62,7 +62,7 @@ SEKE2021.
 * Won the *First Prize* in **China Collegiate Computing Contest** **2020**
 * Won the *Meritorious Winner* in **Mathematical Contest in Modeling** **2020**
 * Won the *Second Prize* in **National Undergraduate Mathemetical Contest in Modeling** **2020** 
-* Won the *1th* on **China Undergraduate Computer Design Contest** **2019**
+* Won the *Third Prize* on **China Undergraduate Computer Design Contest** **2019**
 
 ---
 
