@@ -53,5 +53,6 @@ Role: Systems architect
 [1]**Zeqing Qin**, Zhiwei Ye*, et al. **A Multimodal Biomedical Image Registration Method Based on an Improved Genetic Algorithm Inspired by Hybrid Breeding**[C]//2021 International Conference on Systems, Man, and Cybernetics, IEEE SMC2021. (CCF: C, QUALIS: B2) [paper](https://ieeexplore.ieee.org/document/9658798)
 
 [2]Zesong Wang, Kui Xiao*, **Zeqing Qin**, et al. **Extracting Prerequisites between Concepts from Online Course Introduction**[C]//The 33rd International Conference on Software Engineering & Knowledge Engineering, SEKE2021. (acceptance rate: 23.5%, CCF: C, CORE: B, QUALIS: B1) [paper](https://ksiresearch.org/seke/seke21paper/paper172.pdf)
+
 ---
 
