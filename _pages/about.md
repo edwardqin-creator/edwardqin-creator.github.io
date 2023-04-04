@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a graduate student in the school of Cyber Science and Engineering at [Huazhong University of Science and Technology(HUST)](http://english.hust.edu.cn/). I'm interested in Machine Learning, Natural Language Processing, Security, and Multimodal Image Processing.
+Hi! I am a postgraduate student in the school of Cyber Science and Engineering at [Huazhong University of Science and Technology(HUST)](http://english.hust.edu.cn/). I'm interested in Machine Learning, Natural Language Processing, Security, and Multimodal Image Processing.
 
 ---
 
