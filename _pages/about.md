@@ -13,7 +13,7 @@ Hi! I am a postgraduate student in the school of Cyber Science and Engineering a
 ---
 
 ## What's News
-* Start working in HUST, Sep 1, 2023.
+* Start working in HUST, Sep 1, 2022.
 
 ## Research Experience
 **Image Registration Method Based on Evolutionary Computation** <br>
