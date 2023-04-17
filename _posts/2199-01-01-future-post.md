@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Reading Paper [RAID ’21] "Living-Off-The-Land Command Detection Using Active Learning" by Northeastern University'
+date: 2023-04-17
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Key focus about this paper: Command to vec, Active Learning, LOTL attack
