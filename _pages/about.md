@@ -14,15 +14,16 @@ Hi! I am a postgraduate student in the school of Cyber Science and Engineering a
 
 ## What's News
 * Start working in HUST, Sep 1, 2022.
+* Start the internship in UTD, Apr 28, 2023.
 
 ## Research Experience
 **Improve BERT-based LLM's Performance on C/C++ Vulnerability Detection** <br>
 Otc 2023 - Dec 2023 <br>
-Supported by the National Natural Science Foundation of China
-Project Leader and Algorithm Developer
-* Based on the experience of research internship, I identified Transformer-based models' limitations in understanding C/C++.
+Supported by the National Natural Science Foundation of China <br>
+Project Leader and Algorithm Developer <br>
+* I identified BERT-based models' limitations in understanding C/C++ compared to interpreted language like PHP.
 * Designed an intermediary layer influenced by DNS for C/C++ and model integration.
-* Improve the performance of BERT-based model's performance on C/C++ vulnerability detection, and the research paper is under review.
+* Improved the performance of BERT-based model's performance on C/C++ vulnerability detection, and the research paper is under review.
 
 **Image Registration Method Based on Evolutionary Computation** <br>
 Aug 2020 – Mar 2022 <br>
