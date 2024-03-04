@@ -34,11 +34,10 @@ SEKE2021.
 
 ## Professional Experience
 **Alibaba Cloud Security WEBSHELL Text Detection** <br>
-Sep 2022 – Now <br>
-Alibaba Group, Wuhan, China <br>
+Sep 2022 – Dec 2022 <br>
 Algorithm Analyst <br>
-* Deployed webshell text (malicious code) detection on the Alibaba Cloud platform.
-* Based on BERT, we conducted large-scale automated text detection for massive data.
+* Optimized the procedure of deploying BERT on Alibaba cloud platform for extensive Webshell detection based on team's creative approaches..
+* Conducted detailed data analysis and summarization, performed ablation studies comparing local tests and platform scores to infer platform test data composition, strategically refined the deployed model.
 * Modified the algorithm through various methods, resulting in a final detection rate above 97%.
 
 **Community resource integration application during the COVID-19** <br>
