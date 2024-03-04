@@ -16,6 +16,14 @@ Hi! I am a postgraduate student in the school of Cyber Science and Engineering a
 * Start working in HUST, Sep 1, 2022.
 
 ## Research Experience
+**Improve BERT-based LLM's Performance on C/C++ Vulnerability Detection** <br>
+Otc 2023 - Dec 2023 <br>
+Supported by the National Natural Science Foundation of China
+Project Leader and Algorithm Developer
+* Based on the experience of research internship, I identified Transformer-based models' limitations in understanding C/C++.
+* Designed an intermediary layer influenced by DNS for C/C++ and model integration.
+* Improve the performance of BERT-based model's performance on C/C++ vulnerability detection, and the research paper is under review.
+
 **Image Registration Method Based on Evolutionary Computation** <br>
 Aug 2020 – Mar 2022 <br>
 Supported by the National Natural Science Foundation of China (Grant No.61772180) <br>
