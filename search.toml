@@ -1,0 +1,8 @@
+[input]
+html_selector = "main"
+base_directory = "output"
+
+[[input.files]]
+path = "installation.html"
+url = "/installation.html"
+title = "Installation"
